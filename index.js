@@ -13,3 +13,4 @@ content.onclick = function(){
 Close.onclick = function(){
     boxContent.classList.remove('active')
 };
+ 
